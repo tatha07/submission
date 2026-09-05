@@ -1,0 +1,5 @@
+{
+  "name": "PashuDrishti - Livestock Breed Intelligence",
+  "description": "Livestock breed identification companion, nutrition advisor, breeding guide, farmer community, and official registry handoff assistant for Indian field workers.",
+  "requestFramePermissions": ["camera"]
+}
